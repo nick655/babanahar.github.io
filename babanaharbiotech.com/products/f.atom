@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://babanaharbiotech.com</id>
+    <title>Baba Nahar Biotech And Research</title>
+    <updated>2023-03-24T19:26:46Z</updated>
+    <generator>Baba Nahar Biotech And Research</generator>
+    <author>
+        <name>Baba Nahar Biotech And Research</name>
+    </author>
+    <link rel="alternate" href="https://babanaharbiotech.com"/>
+    <link rel="self" href="https://babanaharbiotech.com/products/f"/>
+    <subtitle>Baba Nahar Biotech And Research</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Millets floor]]></title>
+        <id>millets-floor</id>
+        <link href="https://babanaharbiotech.com/products/f/millets-floor">
+        </link>
+        <updated>2023-03-24T19:26:46Z</updated>
+        <content type="html"><![CDATA[<p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pragati turmeric]]></title>
+        <id>pragati-turmeric</id>
+        <link href="https://babanaharbiotech.com/products/f/pragati-turmeric">
+        </link>
+        <updated>2023-03-24T19:26:04Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/34542978-e21c-4c02-aaed-0391ab4eee8d/IMG20230101140230.jpg"/><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handmade herbal Aloe vera soaps]]></title>
+        <id>handmade-herbal-aloe-vera-soaps</id>
+        <link href="https://babanaharbiotech.com/products/f/handmade-herbal-aloe-vera-soaps">
+        </link>
+        <updated>2023-03-24T19:23:20Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/34542978-e21c-4c02-aaed-0391ab4eee8d/IMG_20230125_194156.jpg"/><p> Aloe vera soap has many benefits for the skin. It is gentle, soothing, and can help to reduce inflammation. It can also help to kill bacteria, making it a good choice for those with acne-prone skin. Additionally, aloe v...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cordyceps militaris]]></title>
+        <id>cordyceps-militaris</id>
+        <link href="https://babanaharbiotech.com/products/f/cordyceps-militaris">
+        </link>
+        <updated>2023-03-24T19:21:39Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/34542978-e21c-4c02-aaed-0391ab4eee8d/IMG20230207143155.jpg"/><p> Animal and lab studies suggest Cordyceps have the potential to improve heart health and fight inflammation, cancer, diabetes,</p>]]></content>
+    </entry>
+</feed>
