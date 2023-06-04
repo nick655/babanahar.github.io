@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Apr 2023 20:50:34 at https://babanaharbiotech.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://babanaharbiotech.com/ -O1 "C:\My Web Sites\webmy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:50:54	Error: 	"Not Found" (404) at link img1.wsimg.com/traffic-assets/js/tccl-tti.min.js (from https://babanaharbiotech.com/)
+20:50:54	Error: 	"Not Found" (404) at link img1.wsimg.com/traffic-assets/js/tccl.min.js (from https://babanaharbiotech.com/)
+20:50:54	Warning: 	Retry after error -4 (No data (connection closed)) at link img1.wsimg.com/blobby/go/34542978-e21c-4c02-aaed-0391ab4eee8d/gpub/3f814577476c75fd/script.js (from https://babanaharbiotech.com/products)
+20:50:54	Error: 	"Not Found" (404) at link https://babanaharbiotech.com/c (from https://connect.facebook.net/en_US/fbevents.js)
+20:50:54	Error: 	"Not Found" (404) at link https://babanaharbiotech.com/b (from https://connect.facebook.net/en_US/fbevents.js)
+20:50:54	Error: 	"Not Found" (404) at link https://babanaharbiotech.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 36 links scanned, 29 files written (2137388 bytes overall) [641466 bytes received at 32073 bytes/sec], 2315784 bytes transferred using HTTP compression in 32 files, ratio 25%, 3.4 requests per connection
+(5 errors, 1 warnings, 0 messages)
